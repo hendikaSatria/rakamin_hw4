@@ -6,7 +6,7 @@
 
     split: Memecah array menjadi 2 bagian berdasarkan posisi indexnya.
 
-    sorting: Untuk men-sorting posisi array.
+    sorting: Untuk men-sorting value array dari value terkecil sampai terbesar.
 
     min: Untuk mencari value terkecil di array.
 
